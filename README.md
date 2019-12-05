@@ -1,8 +1,10 @@
 # Catch
 
-A custom gym environment designed quickly evaluate Reinforcement learning algorithms.
+A custom gym environment designed to quickly evaluate Reinforcement learning algorithms.
 
-<img align="center" src="images/resized.gif">
+<div align="center">
+    <img src="images/resized.gif">
+</div>
 
 # Installation
 ```
