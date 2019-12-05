@@ -14,7 +14,7 @@ pip install -e .
 ```
 
 # How to use ?
-```
+```python
 import gym
 import gym_catch
 
