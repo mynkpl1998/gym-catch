@@ -1,11 +1,13 @@
 # Catch
 
-A custom gym environment designed quickly evaluate Reinforcement learning algorithms. 
+A custom gym environment designed quickly evaluate Reinforcement learning algorithms.
+
+<img align="center" src="images/resized.gif">
 
 # Installation
 ```
-git clone 
-cd 
+git clone https://github.com/mynkpl1998/gym-catch.git
+cd gym-catch 
 pip install -e .
 ```
 
@@ -27,3 +29,6 @@ while True:
 ```
 
 # Environment Properties
+1. Observation space - Box(80, 80, 1)
+2. Action space - Discrete(3)
+
