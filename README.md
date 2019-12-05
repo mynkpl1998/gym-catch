@@ -1,6 +1,6 @@
 # Catch
 
-A custom gym environment designed to quickly evaluate Reinforcement learning algorithms. The environment supports arbitrary number of last k frames to be used for learning algoithms.
+A custom gym environment designed to quickly evaluate Reinforcement learning algorithms. The environment supports arbitrary number of last k frames to be used for learning algorithms.
 
 <div align="center">
     <img src="images/resized.gif">
