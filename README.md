@@ -1,6 +1,6 @@
 # Catch
 
-A custom gym environment designed to quickly evaluate Reinforcement learning algorithms.
+A custom gym environment designed to quickly evaluate Reinforcement learning algorithms. The environment supports arbitrary number of last k frames to be used for learning algoithms.
 
 <div align="center">
     <img src="images/resized.gif">
@@ -17,6 +17,8 @@ pip install -e .
 ```
 import gym
 import gym_catch
+
+# Just return the most recent frame only by setting kFrames to one.
 env = gym.make("catch-v0", render=True, fps=30, kFrames=1)
 
 # Reset the environment
