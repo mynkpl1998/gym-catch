@@ -33,6 +33,6 @@ while True:
 ```
 
 # Environment Properties
-1. Observation space - Box(80, 80, 1)
-2. Action space - Discrete(3)
+* Observation space - Box(80, 80, 1)
+* Action space - Discrete(3) - (Left, Right, Stay)
 
